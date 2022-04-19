@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  height: 100vh;
+  color: whitesmoke;
+
+  & header {
+    margin-bottom: 1rem;
+    pointer-events: none;
+    font-size: x-large;
+    padding-top: 50px;
+  }
+}
